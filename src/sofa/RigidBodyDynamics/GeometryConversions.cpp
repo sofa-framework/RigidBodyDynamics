@@ -26,7 +26,7 @@
 
 #include <coal/BVH/BVH_model.h>
 #include <coal/shape/geometric_shapes.h>
-#include <pinocchio/spatial/fcl-pinocchio-conversions.hpp>
+#include <pinocchio/collision/coal-pinocchio-conversions.hpp>
 
 namespace
 {
